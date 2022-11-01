@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Teoria10.MainPage">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center">
+        <StackLayout>
+            <Button x:Name="btn1" Text="ViewToViewDemo" />
+            <Button x:Name="btn2" Text="BindingModeDemo" />
+            <Button x:Name="btn3" Text="ListViewDemo" />
+            <Button x:Name="btn4" Text="PickerDemo" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
